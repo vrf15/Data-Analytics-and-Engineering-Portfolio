@@ -9,4 +9,4 @@ I am currently familiarizing myself with the AWS platform and terminal-level too
 
 ### Smartvault
 
-### SMP500 Dashboards
+### Personal SMP500 Dashboards
