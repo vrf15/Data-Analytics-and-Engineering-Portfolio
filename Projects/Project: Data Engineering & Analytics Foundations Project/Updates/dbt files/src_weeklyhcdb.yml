@@ -1,7 +1,0 @@
-version: 2
-
-sources:
-  - name: weeklyhcdb
-    schema: raw_weeklyhcdb
-    tables:
-      - name: hhs_hospital_capacity_facility_raw
