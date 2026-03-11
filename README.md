@@ -12,4 +12,4 @@ I am currently familiarizing myself with the AWS platform and tools like airflow
 
 ### Smartvault
 
-### Personal SMP500 Dashboards
+### Personal S&P500 Dashboards
