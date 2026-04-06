@@ -10,6 +10,8 @@ I am currently familiarizing myself with the AWS platform and tools like airflow
 
 ## Active Projects
 
-### Smartvault
+### Smartvault                       (Partnership with an LLC)
 
-### Personal S&P500 Dashboards
+### Personal S&P500 Dashboards       (Creating personal dashboards for stock adjustments)
+
+### WhetherX                         (Machine Learning initiative with actionable insights)
