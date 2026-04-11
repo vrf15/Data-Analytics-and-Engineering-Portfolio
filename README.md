@@ -9,9 +9,14 @@ I am currently familiarizing myself with the AWS platform and tools like airflow
 
 
 ## Active Projects
+---
 
-### Smartvault                       (Partnership with an LLC)
+### Portfolio Case-Studies		(Creating dashboards, ad-hocs, and reports on domain datasets)
 
-### Personal S&P500 Dashboards       (Creating personal dashboards for stock adjustments)
+### Client-Based Dashboards [PRIVATE]	(Creating dashboards, ad-hocs, and reports for LLCs)
 
-### WhetherX                         (Machine Learning initiative with actionable insights)
+### Smartvault [PRIVATE]		(Providing Defi-SmartContract Analytics and ML for an LLC)
+
+### Personal S&P500 Dashboards		(Creating personal dashboards for stock adjustments)
+
+### WhetherX [PRIVATE]			(Personal training of ML to help get an edge in weather markets)
